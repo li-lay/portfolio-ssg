@@ -38,8 +38,10 @@ Most projects listed here are source available in my Github.
 [`lilay.dev`](https://lilay.dev) ([source](https://github.com/li-lay/portfolio-ssg/))
 The website you **currently** looking at, back to simple SSG using **11ty**.
 
-[`akuks.com`](https://akuks.com)
-My first **Intern project** at my Unviersity. A Custom Full-Stack Content Management System (**CMS**).
+[`AKUKS - akuks.com`](https://akuks.com)
+My first **Intern project** at my Unviersity.
+A Custom Full-Stack Content Management System (**CMS**).
+Uni: Angkor Khemara Unviersity Kampong Speu Branch
 
 `TrovTver` ([source](https://github.com/li-lay/TrovTver))
 Minimal Full-Stack Todo Web App built with .NET MVC Pattern.

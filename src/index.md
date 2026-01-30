@@ -47,7 +47,7 @@ Uni: Angkor Khemara Unviersity Kampong Speu Branch
 Minimal Full-Stack Todo Web App built with .NET MVC Pattern.
 
 [`3D Portfolio - 3d.lilay.dev`](https://3d.lilay.dev) ([source](https://github.com/li-lay/portfolio/))
-First time venture into **Web 3D rendering**.
+My main portfolio in **3D** for a while, a result from learning **Web 3D rendering**.
 
 [`Pomodoro Timer 3D`](https://li-lay.github.io/Pomodoro-Timer-3D/) ([source](https://github.com/li-lay/Pomodoro-Timer-3D/))
 Pomodoro Timer app, but it's in **3D** (uncompleted).

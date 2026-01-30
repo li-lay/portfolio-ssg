@@ -1,8 +1,11 @@
 const { DateTime } = require("luxon");
 
-module.exports = function(eleventyConfig) {
+module.exports = function (eleventyConfig) {
   // Copy CSS files to the output directory
-  eleventyConfig.addPassthroughCopy({"src/css": "css"});
+  eleventyConfig.addPassthroughCopy({ "src/css": "css" });
+
+  // Copy favicon
+  eleventyConfig.addPassthroughCopy("src/favicon.ico");
 
   // Set HTML as the default template engine
   eleventyConfig.setTemplateFormats([
@@ -18,7 +21,7 @@ module.exports = function(eleventyConfig) {
     breaks: true,
     linkify: true
   };
-  
+
   eleventyConfig.setLibrary("md", markdownIt(markdownItOptions));
 
   return {

@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://lilay.dev/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 2
+
+# Specific bot rules
+User-agent: Googlebot
+Disallow: /*.php$
+Disallow: /*.asp$
+Disallow: /*.aspx$
+
+User-agent: Bingbot
+Disallow: /*.php$
+Disallow: /*.asp$
+Disallow: /*.aspx$
+
+# Host directive for Google
+Host: lilay.dev

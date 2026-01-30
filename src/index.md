@@ -5,14 +5,15 @@ layout: base.html
 
 # LILAY
 
-### Junior Computer Science @ [`AKUKS`](https://akuks.com)
+### Junior CS @ [`AKUKS`](https://akuks.com)
 
-I'm Lilay, I like **Linux** and **homelabbing** (lol). Base in Kampong Speu, **Cambodia**, I live for the rush of creating and uncovering new adventures. From open-source projects to tinkering with hardware in my homelab.
+Base in Kampong Speu, **Cambodia**. A Linux enthusiast and homelabber.
+Focused on open-source maintenance and hardware tinkering.
 
-- **DevOps** <3
-- Daily‑driving Linux since high school
-- Self-Hosting stuff, btw
-- And uhh... I use **Neovim**, btw
+- **DevOps:** Automating deployments and managing Fedora Copr builds
+- **Linux:** Daily‑driving Linux since high school
+- **Infrastructure:** Self-hosting K3s, Docker Swarm, and open-source services
+- **Editor:** Neovim, btw
 
 ## Links
 
@@ -39,18 +40,17 @@ Most projects listed here are source available in my Github.
 The website you **currently** looking at, back to simple SSG using **11ty**.
 
 [`AKUKS - akuks.com`](https://akuks.com)
-My first **Intern project** at my Unviersity.
-A Custom Full-Stack Content Management System (**CMS**).
-Uni: Angkor Khemara Unviersity Kampong Speu Branch
+My first **Intern project** at my University.
+A Custom Full-Stack Content Management System (**CMS**) using **NextJS, Prisma, and SQLServer**.
 
 `TrovTver` ([source](https://github.com/li-lay/TrovTver))
-Minimal Full-Stack Todo Web App built with .NET MVC Pattern.
+Minimal Full-Stack Todo Web App built with **.NET** and **MVC Pattern**.
 
 [`3D Portfolio - 3d.lilay.dev`](https://3d.lilay.dev) ([source](https://github.com/li-lay/portfolio/))
 My main portfolio in **3D** for a while, a result from learning **Web 3D rendering**.
 
 [`Pomodoro Timer 3D`](https://li-lay.github.io/Pomodoro-Timer-3D/) ([source](https://github.com/li-lay/Pomodoro-Timer-3D/))
-Pomodoro Timer app, but it's in **3D** (uncompleted).
+Pomodoro Timer app, but it's in **3D**.
 
 [`Counter 3D`](https://li-lay.github.io/Counter-3D/) ([source](https://github.com/li-lay/Counter-3D))
 Simple Counter app, but it's in **3D**.
@@ -59,4 +59,4 @@ Simple Counter app, but it's in **3D**.
 I got that 3AM motivation to learn Web 3D.
 
 [`li-lay.github.io`](https://li-lay.github.io) ([source](https://github.com/li-lay/li-lay.github.io/))
-My very first static site made using Hugo SSG.
+My very first static site made using **Hugo** SSG.

@@ -18,6 +18,7 @@ I'm Lilay, I like **Linux** and **homelabbing** (lol). Base in Kampong Speu, **C
 
 - [`Github`](https://github.com/li-lay)
 - [`Gitlab`](https://gitlab.com/li-lay)
+- [`LinkedIn`](https://www.linkedin.com/in/li-lay/)
 - [`Telegram`](https://t.me/ImLiLay)
 - [`Email`](mailto:contact@lilay.dev)
 
@@ -25,7 +26,7 @@ I'm Lilay, I like **Linux** and **homelabbing** (lol). Base in Kampong Speu, **C
 
 - **Maintainer** of [`Origami Linux`](https://origami.wf)
 
-- **Maintainer** of the Fedora Copr package for [`topgrade`](https://copr.fedorainfracloud.org/coprs/lilay/topgrade/), [`tealdeer`](https://copr.fedorainfracloud.org/coprs/lilay/tealdeer/)
+- **Maintainer** of the Fedora Copr package for [`topgrade`](https://copr.fedorainfracloud.org/coprs/lilay/topgrade/), [`tealdeer`](https://copr.fedorainfracloud.org/coprs/lilay/tealdeer/), [`gigawatt`](https://copr.fedorainfracloud.org/coprs/lilay/gigawatt/)
 
 - My [`.dotfiles`](https://github.com/li-lay/.dotfiles), in case you are curious about my setup.
 

@@ -27,7 +27,7 @@ Focused on open-source maintenance and hardware tinkering.
 
 - **Maintainer** of [`Origami Linux`](https://origami.wf)
 
-- **Maintainer** of the Fedora Copr package for [`topgrade`](https://copr.fedorainfracloud.org/coprs/lilay/topgrade/), [`tealdeer`](https://copr.fedorainfracloud.org/coprs/lilay/tealdeer/), [`gigawatt`](https://copr.fedorainfracloud.org/coprs/lilay/gigawatt/)
+- **Maintainer** of the Fedora Copr package for [`topgrade`](https://copr.fedorainfracloud.org/coprs/lilay/topgrade/), [`tealdeer`](https://copr.fedorainfracloud.org/coprs/lilay/tealdeer/)
 
 - My [`.dotfiles`](https://github.com/li-lay/.dotfiles), in case you are curious about my setup.
 
